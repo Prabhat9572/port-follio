@@ -1,0 +1,40 @@
+[
+  
+  {
+    "name": "Yatrii.com",
+    "desc": "Full-Stack Make my Trip Clone with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "category": "mern",
+    "links": {
+      "view": "https://yatrii-com.vercel.app//",
+      "code": "https://github.com/Prabhat9572/yatrii.com"
+    }
+  },
+  
+  {
+    "name": "Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "category": "lamp",
+    "links": {
+      "view": "https://my-portfolio-henna-theta.vercel.app/",
+      "code": "https://github.com/Prabhat9572/My-portfolio"
+    }
+  },
+  {
+    "name": "Digital Massage ",
+    "desc": "The Digital Massage web built using HTML, CSS and JavaScript.",
+    "category": "basicweb",
+    "links": {
+      "view": "https://girlfriend-spacial.vercel.app/book.html",
+      "code": "https://github.com/Prabhat9572/Girlfriend_spacial"
+    }
+  },
+  {
+    "name": "E-commorce Website",
+    "desc": "Basic website template built using HTML and CSS.",
+    "category": "basicweb",
+    "links": {
+      "view": "https://proj-v1.vercel.app/",
+      "code": "https://github.com/Prabhat9572/proj"
+    }
+  }
+]
